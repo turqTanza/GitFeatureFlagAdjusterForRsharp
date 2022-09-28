@@ -23,5 +23,6 @@ This extension perhaps effective in follow conditions:
 1. Use the following pages to open the Manage Extensions dialog box.
 https://learn.microsoft.com/en-us/visualstudio/ide/finding-and-using-visual-studio-extensions?view=vs-2019
 1. Select "Installed" node in left side pane.
-1. Find "GitFeatureFlagAdjusterForRsharp" and click "Uninstall" button.
+1. Find "GitFeatureFlagAdjusterForRsharp".
+1. Select it and click "Uninstall" button.
 1. Restart Visual Studio.
